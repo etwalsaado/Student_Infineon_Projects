@@ -1,4 +1,4 @@
-# Student_CompanyName_Projects
+# Student_Infineon_Projects
 
 Small demos made in Google Colab to show basics:
 - 01_data_handling.ipynb: load, clean, simple EDA on energy CSV.
